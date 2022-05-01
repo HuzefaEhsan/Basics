@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Biryani
 Pakora 
 Fish
+=======
+Harry Potter
+Fast & Furious
+Titanic
+>>>>>>> movies
